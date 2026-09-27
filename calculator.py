@@ -28,4 +28,12 @@ if __name__ == "__main__":
 def add(a, b):
     return a + b
 
+            if choice == "1":
+            a = get_number("Enter first number: ")
+            b = get_number("Enter second number: ")
+            print(f"Result: {add(a, b)}")
+
+
+def subtract(a, b):
+    return a - b
     
