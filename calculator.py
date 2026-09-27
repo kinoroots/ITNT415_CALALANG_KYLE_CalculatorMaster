@@ -17,3 +17,15 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    def get_number(prompt):
+    while True:
+        try:
+            return float(input(prompt))
+        except ValueError:
+            print("Invalid input. Please enter a numeric value.")
+
+def add(a, b):
+    return a + b
+
+    
