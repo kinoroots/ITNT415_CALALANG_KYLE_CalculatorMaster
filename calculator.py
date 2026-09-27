@@ -36,4 +36,10 @@ def add(a, b):
 
 def subtract(a, b):
     return a - b
-    
+
+            elif choice == "2":
+            a = get_number("Enter first number: ")
+            b = get_number("Enter second number: ")
+            print(f"Result: {subtract(a, b)}")
+
+            
