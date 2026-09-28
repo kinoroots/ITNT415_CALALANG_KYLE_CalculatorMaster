@@ -4,7 +4,7 @@
 Kyle Calalang
 
 ## Course and Section
-ITNT415 — [Insert Section Here]
+ITNT415 — BIT41
 
 ## Project Description
 CalculatorMaster is a menu-driven calculator written in Python. It was built using Git and GitHub feature branching, where each arithmetic operation was developed on its own branch, committed with descriptive messages, and merged into the main branch through a reviewed Pull Request. The final version on main combines all four operations into a single application that keeps running until the user chooses to exit.
