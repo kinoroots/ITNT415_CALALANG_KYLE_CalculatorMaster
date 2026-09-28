@@ -36,9 +36,6 @@ The screenshot below shows a typical session, and the same session in words is:
 - The user selects option 4 (Division), enters 10 and 0, and the program displays Error: Cannot divide by zero.
 - The user selects option 5, and the program displays Exiting calculator. Goodbye!
 
-## Sample Execution Screenshot
-![Sample Execution](screenshots/sample_execution.png)
-
 ## Commit Examples
 - Initial addition function
 - Improve addition validation and integrate into menu
